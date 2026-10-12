@@ -1,5 +1,7 @@
 # purify-edge
 
+<sub>A <a href="https://halleylabs.dev">Halley</a> project</sub>
+
 DOMPurify without jsdom. Byte-identical output, small, runs on Workers and other edge runtimes.
 
 ![Byte-identical output to DOMPurify on jsdom: purify-edge 100%, sanitize-html 43.5%, rehype-sanitize 9.4%](assets/parity.png)

@@ -4,11 +4,11 @@
   "description": "DOMPurify without jsdom. Byte-identical output, small, runs on Workers and other edge runtimes.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anzal1/purify-edge.git"
+    "url": "git+https://github.com/halleylabs/purify-edge.git"
   },
-  "homepage": "https://github.com/anzal1/purify-edge#readme",
+  "homepage": "https://github.com/halleylabs/purify-edge#readme",
   "bugs": {
-    "url": "https://github.com/anzal1/purify-edge/issues"
+    "url": "https://github.com/halleylabs/purify-edge/issues"
   },
   "type": "module",
   "main": "./dist/index.cjs",
