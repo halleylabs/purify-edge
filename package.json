@@ -77,7 +77,7 @@
     "isomorphic-dompurify": "4.4.0",
     "jsdom": "29.1.1",
     "marked": "18.0.14",
-    "miniflare": "4.20260730.0",
+    "miniflare": "5.20261006.1-alpha",
     "rehype-parse": "9.0.1",
     "rehype-sanitize": "6.0.0",
     "rehype-stringify": "10.0.1",
