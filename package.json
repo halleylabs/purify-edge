@@ -68,7 +68,7 @@
   "author": "Anzal Abidi",
   "license": "MIT",
   "dependencies": {
-    "dompurify": "3.4.16",
+    "dompurify": "3.4.17",
     "parse5": "8.0.1"
   },
   "devDependencies": {
